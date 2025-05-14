@@ -1,2 +1,3 @@
 Nextcloud.NextcloudDesktop*
 OpenVPNTechnologies.OpenVPN*
+RaspberryPiFoundation.RaspberryPiImager*
