@@ -7,7 +7,6 @@ Microsoft.Teams*
 Mozilla.Firefox*
 Opera.Opera*
 Romanitho.Winget-AutoUpdate
-Nextcloud.NextcloudDesktop*
 OpenVPNTechnologies.OpenVPN*
 RaspberryPiFoundation.RaspberryPiImager*
 Inkscape.Inkscape*
