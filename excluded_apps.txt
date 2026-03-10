@@ -1,5 +1,4 @@
 Veeam.VeeamAgent
-Nextcloud.NextcloudDesktop*
 Google.Chrome*
 Microsoft.Edge*
 Microsoft.Office
