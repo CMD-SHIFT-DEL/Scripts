@@ -11,3 +11,4 @@ Romanitho.Winget-AutoUpdate
 OpenVPNTechnologies.OpenVPN*
 RaspberryPiFoundation.RaspberryPiImager*
 Inkscape.Inkscape*
+Nextcloud.NextcloudDesktop
