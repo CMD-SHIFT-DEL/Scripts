@@ -9,5 +9,4 @@ Opera.Opera*
 Romanitho.Winget-AutoUpdate
 OpenVPNTechnologies.OpenVPN*
 RaspberryPiFoundation.RaspberryPiImager*
-Inkscape.Inkscape*
-Bitwarden.Bitwarden  
+Inkscape.Inkscape* 
