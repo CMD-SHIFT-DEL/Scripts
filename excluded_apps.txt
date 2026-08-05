@@ -1,4 +1,3 @@
-Bitwarden.Bitwarden  
 Veeam.VeeamAgent
 Google.Chrome*
 Microsoft.Edge*
